@@ -1,8 +1,12 @@
 # social-media-app
-admin username:huseyn
-admin password:huseyn123
+admin username:admin
+
+
+admin password:admin123
 
 test user username:huseyn
+
+
 test user password:huseyn123
 
 
