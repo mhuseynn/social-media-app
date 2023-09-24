@@ -75,7 +75,7 @@ Post post1 = new("ilk post", DateTime.Now);
 Database database = new Database();
 database.add_user(test);
 
-Admin admin = new("huseyn", "socialmediaapp585", "huseyn123");
+Admin admin = new("admin", "socialmediaapp585@gmail.com", "admin123");
 admin.add_post(post1);
 
 string[] menu = { "\n\n\n\t\t\t\t Admin", "\t\t\t\tSign in", "\t\t\t\tSign up" };

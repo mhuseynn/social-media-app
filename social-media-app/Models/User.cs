@@ -118,8 +118,13 @@ namespace Models
 
         public void show()
         {
-            Console.WriteLine("id" + _id);
+            Console.WriteLine("id: " + _id);
+            Console.WriteLine("Name: "+Name);
+            Console.WriteLine("Surname: "+Surname);
             Console.WriteLine("username: " + _username);
+            Console.WriteLine("email: "+Email);
+            Console.WriteLine("age: "+Age);
+            Console.WriteLine("password: "+"********");
             Console.WriteLine();
         }
     }

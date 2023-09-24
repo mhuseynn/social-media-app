@@ -44,7 +44,7 @@ namespace Models
 |                  |
 |                  |
  ------------------");
-            Console.WriteLine("like" + like_count + "     " + "view" + view_count);
+            Console.WriteLine("like-" + like_count + "     " + "view-" + view_count);
         }
 
     }
